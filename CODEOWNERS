@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ChemaPrompts
+/src/backend/database.py      @ChemaPrompts
+/src/backend/routers/auth.py  @ChemaPrompts
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ChemaPrompts
